@@ -10,6 +10,6 @@
 ### This repository features impressive collections of resources to learn Web 3.0 <br/>
 My Github: https://github.com/DZayee <br/>
 My LinkedIn: https://www.linkedin.com/in/dinhansw/<br/>
-My Gihub: https://github.com/DZayee<br/>
+My Telegram: https://t.me/trojan_pr0_o1<br/>
 
 
