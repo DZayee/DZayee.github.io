@@ -1,6 +1,7 @@
 <!-- Level 3: Add custom code -->
 👋 Hi, I'm 0xCiph3r!
 <br/>
+<br/>
 👨‍💻 Web3 Engineer sharing about my journey and learnings in tech.<br/>
 👨‍💻 White hat/Pentester.<br/>
 👨‍💻Researcher, Validator, Testneter.<br/>
@@ -11,5 +12,5 @@
 My Github: https://github.com/DZayee <br/>
 My LinkedIn: https://www.linkedin.com/in/dinhansw/<br/>
 My Telegram: https://t.me/trojan_pr0_o1<br/>
-
+My Discord: mrdragon75
 
